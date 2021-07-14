@@ -7,10 +7,30 @@ const IndexPage = () => {
         <h1>Ruby's Gatsby Timeship</h1>
       </header>
 
-      <p>
-        Let's make a time travel function at:{" "}
-        <a href="api/time-travel">api/time-travel</a>
-      </p>
+      <p>Let's make a time travel function: </p>
+      <ul>
+        <li>
+          Step 1: <a href="api/time-travel-1">api/time-travel-1</a>
+        </li>
+        <li>
+          Step 2:{" "}
+          <a href="api/time-travel-2?location=stavanger&year=2020">
+            api/time-travel-2?location=stavanger&year=2020
+          </a>
+        </li>
+        <li>
+          Step 3 (find the princess):{" "}
+          <a href="api/time-travel-3?location=oslo&year=2026">
+            api/time-travel-3?location=oslo&year=2026
+          </a>
+        </li>
+        <li>
+          Step 3 (no princess):{" "}
+          <a href="api/time-travel-3?location=bergen&year=2026">
+            api/time-travel-3?location=bergen&year=2026
+          </a>
+        </li>
+      </ul>
     </main>
   );
 };
