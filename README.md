@@ -1,8 +1,8 @@
-# @raae's minimal demo starter
+# Gatsby Timeship
 
-No sourcing of data, minimal styling via [new.css plugin]()
+Used as a demo in the webinar [A practical introduction to Gatsby Functions](https://www.crowdcast.io/e/a-practical-introduction) you may watch at your convenience.
 
-## 🚀 Quick start
+## 🚀 Quick start (from Gatsby)
 
 1.  **Start developing.**
 

@@ -1,8 +1,8 @@
 {
-  "name": "@raae/gatsby-starter-demo",
+  "name": "@raae/gatsby-timeship",
   "version": "1.0.0",
   "private": false,
-  "description": "A Gatsby demo starter from @raae",
+  "description": "A Gatsby demo from @raae",
   "author": "@raae",
   "keywords": [
     "gatsby"
