@@ -1,3 +1,3 @@
-export default function handler(req, res) {
-  res.send(`You time-travelled to Bergen, in year 2022`);
+export default function timeTravelHandler(req, res) {
+  res.send(`You time-travelled to Oslo, year 2026`);
 }
