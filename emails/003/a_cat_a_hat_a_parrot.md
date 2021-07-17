@@ -10,11 +10,11 @@
 
 «Aha! Captain Json» Says Ruby, already climbing along the rooftops.
 
-«Excellent! See you at Catsby's Crazy Show!» Says Captain Swizec with a wink and a tip of his hat.
+«Excellent! See you at Catsby's Crazy Show!» Says Captain Swizec with a tip of his hat.
 
 «Go! Go! Help! Help!» Croaks Kiwi.
 
-«You want to help them MORE? Even though they call you parrot? Watch out for super spy Renard, that wiley fox and her wolfy friends, they are the baddest backend engineers I've seen. Bye bye bird!» Says Captain Swizec.
+«You want to help them MORE? Even though they call you pirate-parrot? Ok. Stay away from super spy Renard, that wiley fox and her wolfy buddies, they are the baddest backend engineers I've seen. Bye bye bird!» Says Captain Swizec.
 
 «Boop! Captain Json! Oooh! THAT smells heavenly» Says Ruby.
 
@@ -22,54 +22,61 @@
 
 «Here!» Says Ruby.
 
-«Hmm.... You are going to find a PiRATE_PRiNCESS in the far future and bring her here to stop murderous Mary's Mad Masterplan. Clever.... Clever.... Ok. So we need to add code.... Firstly I'll put Res-the-cat and Kiwi on my .json( hatlike this. Kiwi holds the message and the PiRATE_PRiNCESS like this. How would you code that?! Hmmm....» Says Captain Json.
+«Hmm.... You are going to find a PiRATE_PRiNCESS in the far future and bring her here to stop murderous Mary's Mad Masterplan. Clever.... Clever.... Ok. So you need to add code.... I'll give you two tasks. Firstly I'll put Res-the-cat and Kiwi on my .json( hat like this. Kiwi holds the message and the PiRATE_PRiNCESS like this. How would you code that?! Hmmm....» Says Captain Json.
 
 «Øøøh.... like this?» Says Ruby.
 
 ( // codesnippet)
 
-«Yes! Secondly, if your TimeShip lands in the wrong city or year you will not find a PiRATE_PRiNCESS, only get the message- Now code it! AH! Lizabeth! Welcome! YARR! If you eat this new _ _ _ _ and tell me honestly how it tastes to you, I would be honored to give you my .json( hat.» Says Captain Json.
+   res.json({ message: message, princess: PIRATE_PRINCESS })
 
-«Deal! Munc-Munch-Munch!» Says Lizabeth.
+
+
+«Yes! Secondly, if your TimeShip lands in the wrong city or year you will not find a PiRATE_PRiNCESS, only send the message. Now code it! YARR! Lizabeth! Welcoooome and if you eat this new _ _ _ _ and tell me honestly how it tastes to you, I would be honored to give you my .json( hat.» Says Captain Json.
+
+«Deal! Munch-Munch-Munch!» Says Lizabeth.
 
 «Finished! Look!» Says Ruby.
 
 ( // codesnippet)
+ 
+src / api / time-travel.js
+ 
+const PIRATE_PRINCESS = {
+ birthYear: "2015",
+ hairColor: "blond",
+ nickName: "Lilly",
+ identifier: "userId",
+}
+ 
+export default function timeTravelHandler(req, res) {
+ const { location } = req.params
+ const { year } = req.query
+ const message = `You time-travelled to ${location}, in year ${year}`
+ 
+ if (location === "oslo" && year === "2026") {
+   res.json({ message: message, princess: PIRATE_PRINCESS })
+ } else {
+   res.send(message)
+ }
+}
 
-«That look good! Run it!» Says Captain Json.
+
+
+
+«Now run it!» Says Captain Json.
 
 ( // browser)
 
-«Shall we get my TimeShip into prod?» Says Ruby.
+http://localhost:8000/api/time-travel/oslo?year=2026 result {"message":"You landed in oslo, year 2026","princess":{"birthYear":"2015","hairColor":"blond","nickName":"Lilly"}}
 
-«Yes we shall Ruby!» Says Captain Json climbing the rooftops towards the pink and yellow TimeShip on Lizabeths rooftop.
+«Her I ask for the wrong year.» Says Ruby.
 
-«Don't you want to know that your new _ _ _ _ tasted delicious?» Says Lizabeth.
 
-«Thanks! I wanna see this puppy float to the far future!» Says Captain Json climbing aboard Ruby's TimeShip and writing furiously on a piece of paper and climbing back out.
+http://localhost:8000/api/time-travel/oslo?year=2023 result “You landed in oslo, year 2023”
 
-«Knock! Knock!»
+«Your Gatsby function is LOOKING sharp!» Says Captain Json.
 
-«Who's there!?» Says Ruby.
+«Shall we get my whole TimeShip deployed?» Says Ruby.
 
-«OH! No! It's the Sheriff knocking at my door downstairs. Behind him is Fulvia "The Fox" Renard and a pack of her wolfy backend buddies.» Says Lizabeth.
-
-«Why must Foxy Fulvia stop us now! We're SOOO close!» Says Ruby.
-
-«YOU can still go.» Says Lizabeth.
-
-«Without you? Getting you out of horrible house arrest for good is The Whole Point!» Says Ruby.
-
-«Well we were too slow. Super spy Renard was faster at finding fake proof to lock me up in the Tower.» Says Lizabeth.
-
-«I might as well let myself be lock up with you, we failed.» Ruby sits down on the tiny deck of her.
-
-«» Says Lizabeth.
-«» Says Ruby.
-«» Says Freddie Catsby.
-«» Says Captain Json.
-«» Says Captain Swizec.
-«» Croaks Kiwi.
-
-( // illustration: RUBY’S rooftop TiMESHiP, London Bridge 1554)
- ( // codesnippet)
+«Yes! We. Shall. Ruby!» Says Captain Json climbing the rooftops towards the pink and yellow TimeShip on Lizabeths rooftop.
