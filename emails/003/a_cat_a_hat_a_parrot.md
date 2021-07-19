@@ -70,7 +70,7 @@ export default function timeTravelHandler(req, res) {
 
 http://localhost:8000/api/time-travel/oslo?year=2026 result {"message":"You landed in oslo, year 2026","princess":{"birthYear":"2015","hairColor":"blond","nickName":"Lilly"}}
 
-«Her I ask for the wrong year.» Says Ruby.
+«Here I ask for the wrong year.» Says Ruby.
 
 
 http://localhost:8000/api/time-travel/oslo?year=2023 result “You landed in oslo, year 2023”
