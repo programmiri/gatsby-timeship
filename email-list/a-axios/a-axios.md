@@ -12,20 +12,18 @@ Examples:
 Add axios with Arrows ->
 I find the "right" word by guessing and draw an arrow to the number 1 in my Gatsby function code on my piraty print-out.
 
-(// illu #A1)
-
 Using axios with Lettering
 I guess the "right" word and letter it by the number 3 outside my Gatsby function code on my piraty print-out.
 
 (// illu #A2)
 
-(// illu #A3)
+(// illu #A1)
 
 Check Cheatsheet & Repeat
 I check my cheatsheet and repeat and repeat and repeat. Until my countdown timer croaks "rrr-RRR!"
 
 
-Go Go Gatsby Function Piraty Practice!
+Go Go Gatsby Practice!
 
 A. Add axios & Use axios: Arrows ->
 
