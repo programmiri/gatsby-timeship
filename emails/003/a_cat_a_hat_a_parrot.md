@@ -41,21 +41,20 @@
 ( // codesnippet)
  
 src / api / time-travel.js
- 
-const PIRATE_PRINCESS = {
- birthYear: "2015",
+
+const PIRATE_👑 = {
+ age: "_ _ _",
  hairColor: "blond",
- nickName: "Lilly",
- identifier: "userId",
 }
- 
+  
 export default function timeTravelHandler(req, res) {
- const { location } = req.params
- const { year } = req.query
- const message = `You time-travelled to ${location}, in year ${year}`
+  const { city, year } = req.query
+  const message = `You time-
+    travelled to ${city},
+    in year ${year}`
  
- if (location === "oslo" && year === "2026") {
-   res.json({ message: message, princess: PIRATE_PRINCESS })
+ if (city === "oslo" && year === "2026") {
+   res.json({ message: message, princess: PIRATE_👑 })
  } else {
    res.send(message)
  }
