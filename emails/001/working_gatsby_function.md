@@ -24,5 +24,5 @@ http://localhost:8000/api/time-travel
 
 So what is your next task?» Asks Freddie Catsby.
 
-«We need to get our landing city from the TimeShip browser bar and into our Gatsby function.» Says Lizabeth
+«We need to get our landing city from the TimeShip browser bar and into our Gatsby function.» Says Lizabeth.
 
