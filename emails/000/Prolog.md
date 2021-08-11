@@ -8,6 +8,7 @@ TiMESHiP
 4 PIRATY GATSBY FUNCTIONS TO JAILBREAK A SISTER
 By Lillian Raae-Vea (6 🏴‍☠️👸 ) and Ola Vea
 
+
 PROLOG
 Three half sisters,
 all alike in programming prowess,
@@ -33,33 +34,42 @@ to properly practice
 Gatsby functions and
 make a CRUSHING comback in 1554.
 
+( // illu: Picture frames )
+
+
 But when the jailbreak
 fails to deploy properly
-Ruby must learn to focus
-on just ONE
-tiny programming task
-at the time
-even when live coding
+Ruby must learn to
+"Never trust
+the User".
+While programming
 London's 4 greatest
-Gatsby Functions
-to get her sister Lizabeth
+Gatsby Functions,
+to get Ruby's sister Lizabeth
 out of the Tower
 of London jail.
 
-And stop her
+And stop their
 half sister, Queen
 murderous Mary from
 demolishing all their homes
 and re-building
 London Bridge
 as a boringly
-bad back end
-and filling ever house
-with wolfy
-backend engineers.
+bad back end.
 
 But, we'll start
 at the start.
-Let's
-...
-a working Gatsby Function
+Let's get a Gatsby function going!
+
+
+garbage:
+focus
+on just ONE
+tiny programming task
+at the time
+even when live coding
+
+and filling ever house
+with wolfy
+backend engineers.
