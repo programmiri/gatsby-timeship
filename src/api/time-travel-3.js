@@ -5,10 +5,10 @@ const PIRATE_PRINCESS = {
 };
 
 export default function handler(req, res) {
-  const { location, year } = req.query;
-  const message = `You time-travelled to ${location}, in year ${year}`;
+  const { city, year } = req.query;
+  const message = `You time-travelled to ${city}, in year ${year}`;
 
-  if (location === "oslo" && year === "2026") {
+  if (city === "oslo" && year === "2026") {
     res.json({ message: message, princess: PIRATE_PRINCESS });
   } else {
     res.send(message);
