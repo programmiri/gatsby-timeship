@@ -20,4 +20,17 @@ http://localhost:8000/api/time-travel/oslo?year=2026
 
 “You time-travelled to the city of oslo, in year 2026”
 
-«Beautiful work Ruby! Just one more task and we'll move on to the next neighbour. We need to add a PiRATE PREiNCESS to your TimeShip code Ruby.» Says Lizabeth.
+«Beautiful work Ruby!
+
+for our next tiny task we'll move on to a neighbour who has goats AND horses in his rooftop garden ON Our Bridge! No, wait for it! We need to find a way to add a Pirate Princess to your TimeShip code Ruby. Thousand thanks Captain Swizec and bye.» Says Lizabeth and climbs after Ruby along the rooftops.
+
+«Good bye.» Says Captain Swizec.
+
+«Go! Help! Help!» Croaks Kiwi.
+
+«You want to help them MORE? Even though they call you pirate-parrot behind your back?» Says Captain Swizec.
+
+«YARR! A trip! A trip! Kiwi wants a trip!» Croaks Kiwi.
+
+«Ok. bring me a gift from the future. Bye bye bird!» Says Captain Swizec.
+

@@ -1,8 +1,11 @@
-«Who is the best neighbour to help res-the-cat send your PiRATE_PRiNCESS and your message out of your Gatsby function and into Ruby's TimeShip? Aaare yooou reeeady tooo a rrriiiiddleee!» Says Captain Swizec.
+«Who is the best neighbour to
 
-«Yes! Ding!» Shouts Ruby, dancing like a butterfly.
 
-«Who. Was a piratical rockstar-as-a-youngster AND also serves the best barbeque burger on Our Bridge?» Asks Captain Swizec.
+help res-the-cat send your Pirate Princess and your message out of your Gatsby function and into Ruby's TimeShip? Aaare yooou reeeady tooo a rrriiiiddleee!» Says Sailing Master Ward Peters.
+
+«Yes!» Shouts Ruby, dancing like a butterfly.
+
+«Who. Was a piratical rockstar-as-a-youngster AND also serves the best barbeque burger on Our Bridge?» Asks Sailing Master Ward Peters.
 
 «Freddie Caaatsbyyy....?» Says Lizabeth.
 
@@ -10,33 +13,26 @@
 
 «Aha! Captain Json» Says Ruby, already climbing along the rooftops.
 
-«Excellent! See you at Freddie's Friday Show!» Says Captain Swizec with a tip of his hat.
-
-«Go! Go! Help! Help!» Croaks Kiwi.
-
-«You want to help them MORE? Even though they call you pirate-parrot behind your back?» Says Captain Swizec.
-
-«YARR! A trip! A trip! Kiwi wants a trip!» Croaks Kiwi.
-
-«Ok. Bye bye bird!» Says Captain Swizec.
+«Excellent! See you at Freddie's Friday Show!» Says Sailing Master Ward Peters with a tip of his hat.
 
 A few rooftops up London Bridge, at Eat With Json.
 
 «Boop! Captain Json! Oooh! THAT smells heavenly» Says Ruby.
 
-«Ah Ruby! You look like you have brought a tasty programming problem. Let's see it!» Says Captain Json.
+«Ah Ruby! You look like you have brought me a tasty programming problem. Let's see it!» Says Captain Json.
 
-«Here!» Says Ruby.
+«Here! I need to
+next tiny task is to get our Pirate Princess variable and our message  variable to res-the-cat inside our Gatsby function.» Says Ruby.
 
-«Hmm.... I see.... You are going to find a Pirate Princess in the far future and bring her here to help stop murderous Mary's mad masterplan. Clever.... Clever.... Ok. So you need to add code.... I'll give you two tiny tasks. Firstly I'll put Res-the-cat and Kiwi on my .json( hat like this. Kiwi holds the message and the PiRATE_PRiNCESS like this. How would you code that?! Hmmm....» Says Captain Json.
+«Hmm.... I see.... Ok. So you need to add code.... I'll give you a hint. I'll put res-the-cat and Kiwi on my .json( hat like this. Pretend that Kiwi holds the message variable and the Pirate Princess variable. How would you code that?! Hmmm....» Says Captain Json.
 
-«Øøøh.... like that?» Says Ruby.
+«Ahoy! .... Like that?» Says Ruby.
 
    res.json({ message: message, princess: PIRATE_PRINCESS })
 
 
 
-«Yes! Secondly, if your TimeShip lands in the wrong city or year you will not find a Pirate Princess and thus only send the message. Now code it! YARR! Lizabeth! Welcoooome and if you eat this new burger and tell me honestly how it tastes to you, I would be honored to give you my .json( hat.» Says Captain Json.
+«Yes! And now, if your TimeShip lands in the wrong city or year you will not find a Pirate Princess and thus res-the-cat should only send the message. Now code it! YARR! Look who's here? Lizabeth! My favourite Princess. Welcoooome! And if you taste this new burger and tell me HOW it tastes different to the regular burger, I would be honored to give you my .json( hat. as a gift.» Says Captain Json.
 
 «Deal! Munch-Munch-Munch!» Says Lizabeth.
 
@@ -67,11 +63,11 @@ export default function timeTravelHandler(req, res) {
 
 ( // browser)
 
-http://localhost:8000/api/time-travel/oslo?year=2026 result {"message":"You time-travelled to the city of oslo, in year 2026","princess":{ age: "_ _ _", "hairColor":"blond"}}
+http://localhost:8000/api/time-travel/?city=oslo&?year=2026 result {"message":"You time-travelled to the city of oslo, in year 2026","princess":{ age: "_ _ _", "hairColor":"blond"}}
 
 «Here I ask for the wrong year.» Says Ruby.
 
-http://localhost:8000/api/time-travel/oslo?year=2023 result “You time-travelled to the city of oslo, in year 2023”
+http://localhost:8000/api/time-travel/?city=oslo&year=2023 result “You time-travelled to the city of oslo, in year 2023”
 
 «Your Gatsby function is LOOKING sharp!» Says Captain Json.
 

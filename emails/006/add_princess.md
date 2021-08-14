@@ -1,7 +1,6 @@
+«Our next tiny task is to find a way to add a Pirate Princess to your TimeShip code Ruby.» Says Lizabeth while hugging a horse's head.
 
-«Beautiful work Ruby! Just one more task and we'll move on to the next neighbour. We need to add a PiRATE PREiNCESS to your TimeShip code Ruby.» Says Lizabeth.
-
-«I see....» Says Captain Swizec.
+«I see....» Says Sailing Master Ward Peters.
 
 «Look I already made an object.» Says Ruby.
 
@@ -12,7 +11,7 @@
 }
 
 
-«Good, where should you put that object?» Says Captain Swizec.
+«Good, where should you put that object?» Says Sailing Master Ward Peters.
 
 «Outside of the Gatsby function like thiiis!» Says Ruby.
 
@@ -26,7 +25,8 @@ const PIRATE_PRINCESS = {
 export default function timeTravelHandler(req, res) {
 
 
-«Good work Ruby! Our next task is to get our PIRATE_PRINCESS and our message to res-the-cat.» Says Lizabeth.
+«Good work Ruby! Your next tiny task is to get our Pirate Princess  variable and our message variable to res-the-cat inside our Gatsby function.» Says Lizabeth.
+
 
 
 

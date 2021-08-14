@@ -1,24 +1,33 @@
-«I'll rescue you from this horrid house arrest Lizabeth. I'll take you away on a test trip after I've deployed my TimeShip code.» Says Ruby.
 
-«Knock! Knock!» Floats up from The Bridge below.
 
-«Who's there!?» Says Ruby.
+«I'll rescue you from this horrid house arrest Lizabeth. I'll take you away on a test trip after I've deployed my TimeShip code. Then we can be out and about every day, just like we have today. But down in the STREETS because we need not fear getting caught by The Plaguesome Queen's agents.» Says Ruby.
 
-«Wolf-Wolf! Fox! Sheriff!!» Croaks Kiwi.
+«Knock! Knock!» Floats up on the wind from the front door down on the Bridge below.
 
-«OH! No! It's the Sheriff of London is knocking at my door downstairs. Behind him is super spy Fulvia "The Fox" Renard and a pack of her wolfy backend buddies.» Says Lizabeth looking down on The Bridge below.
+«Who's there!?» Says Ruby to the wind.
+
+«Wolf-Wolf! Fox! Sheriff!!» Croaks Kiwi who is looking down.
+
+«OH! No! It's the Sheriff of London knocking at my door downstairs. Behind him is super spy Fulvia "The Fox" Renard and a pack of her wolfy backend buddies.» Says Lizabeth looking down on The Bridge below.
 
 «Noooo! Why must the super spy stop us now! We're SOOO close!» Says Ruby.
 
-«Yes super spy Fulvia "The Fox" Renard was blazingly fast at finding fake proof to lock me up in the Tower. But YOU can still Ruby.» Says Lizabeth.
+«Yes super spy Fulvia "The Fox" Renard was blazingly fast at finding fake proof so Queen Mary can lock me up in the Tower. Until I am freed by the courts. But YOU can still go Ruby.» Says Lizabeth.
 
-«Without you? WHY?! Getting you out of horrible house arrest for good is The Whole Point! Please come away with me.» Says Ruby.
+«Without you? WHY?! Getting you out of horrible house arrest is The Whole Point! Please come away with me.» Says Ruby.
 
-«I will just look guilty if I run away now. You must go alone to the far future. And send yourself and the PiRATE_PRiNCESS back here. And break me out of The Tower. And make a safe getaway. That's three new Gatsby functions. I know it's a lot, but you CAN do it.» Says Lizabeth.
+«I will just look guilty if I run away now, awaiting my trail. You must go alone to the far future. And send yourself and the Pirate Princess back here. And break me out of The Tower. And make a safe getaway. That's three NEW Gatsby functions. I know it's a lot, but you CAN do it.» Says Lizabeth.
 
-«It's too much. How can I learn three new Gatsby functions at once?» Ruby sits down heavily on the tiny deck of her pink and yellow TimeShip.
+«Of course I can do it alone. ALONE! It's too much. How can I learn three new Gatsby functions alone?» Ruby sits down heavily on the tiny deck of her pink and yellow TimeShip.
 
-«Didn't your father tell you "tiny tasks, break the new Gatsby function down into tiny tasks and automate one tiny task in your brain at a time"?» Says Captain Json.
+«Here take my gilded hat for good luck!» Says Captain Json.
+
+«Good luck!? I'll THAT! Oh noooo ....» Says Ruby head in hands.
+
+«Not alone! Not alone! Kiwi wants a trip! A trip! A trip!» Croaks Kiwi.
+
+
+
 
 «My dead the backend-baddy daddy?! Yeah he said THAT, but....» Says Ruby head in hands.
 
