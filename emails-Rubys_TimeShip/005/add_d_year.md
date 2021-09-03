@@ -1,5 +1,4 @@
-
-«You said your next task is landing year, how do you plan to do it?» Says Captain Swizec.
+«You said your next task is landing year, how do you plan to code it?» Says Captain Swizec.
 
 «I'll put landing year inside the piraty parrot braces with city, like this.» Says Ruby typing away.
 
@@ -12,15 +11,12 @@ export default function timeTravelHandler(req, res) {
 }
 
 
-«Now go to your browser adress bar and write http://localhost:8000/api/time-travel-2?city=oslo&year=2026
+«Now go to your browser adress bar and write
+http://localhost:8000/api/time-travel?city=oslo&year=2026
 Yess! Like that!» Says Captain Swizec.
 
 
-http://localhost:8000/api/time-travel/oslo?year=2026
-
-“You time-travelled to the city of oslo, in year 2026”
-
-«Beautiful work Ruby!
+«Excellent work Ruby!
 
 for our next tiny task we'll move on to a neighbour who has goats AND horses in his rooftop garden ON Our Bridge! No, wait for it! We need to find a way to add a Pirate Princess to your TimeShip code Ruby. Thousand thanks Captain Swizec and bye.» Says Lizabeth and climbs after Ruby along the rooftops.
 
@@ -32,5 +28,4 @@ for our next tiny task we'll move on to a neighbour who has goats AND horses in 
 
 «YARR! A trip! A trip! Kiwi wants a trip!» Croaks Kiwi.
 
-«Ok. bring me a gift from the future. Bye bye bird!» Says Captain Swizec.
-
+«Ok. Bring me a gift from the future. Bye bye bird!» Says Captain Swizec.
