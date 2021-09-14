@@ -6,22 +6,23 @@
 
 «Hack-hack! Hack!» Floats up the answer on the salty wind.
 
-
 «Wolf-Wolf! Fox-fox!» Croaks Kiwi, who looks down.
 
-«OH! No! It's the Sheriff of London at my door downstairs. With him is super spy Fulvia "The Fox" Renard and a pack of her wolfy backend buddies are hacking at my door with halberds. My my.» Says Lizabeth and calmly shakes her head and looks down on The Bridge below.
+«OH! No! It's the Constable of the Tower of London. With him is super spy Fulvia "The Fox" Renard and a pack of her wolfy backend buddies are hacking at my door with halberds. My my.» Says Lizabeth and calmly shakes her head and looks down on The Bridge below.
 
 «Noooo! Why must the STUPID super spy stop us now! We're SOOO close!» Says Ruby.
 
-«Yes super spy Fulvia "The Fox" Renard was blazingly fast at finding fake proof so Queen Mary can lock me up in the Tower. Until I am covicted by her kangaroo courts. But YOU can still go Ruby.» Says Lizabeth.
+«Yes super spy Fulvia "The Fox" Renard was blazingly fast at finding fake proof against me. Now Queen Mary can lock me up in the Tower and just wait until I am covicted by her kangaroo court. But YOU can still get away Ruby.» Says Lizabeth.
 
 «Without you? WHY?! Getting YOU out of horrible house arrest is The Whole Point! Please come away with me.» Says Ruby and holds out her hand.
 
-«No. I will just look guilty if I run away now, awaiting my treason trail. You must go alone to the far future. And TimeShip yourself and the Pirate Princess back here. And break me out of The Tower. And make a safe getaway. That's three NEW Gatsby functions for you to master. I know it's a lot, but you CAN do it.» Says Lizabeth, hugs Ruby and climbs down into the house through the rooftop window.
+«No. I will just look guilty if I run away now, awaiting my treason trail. You must go alone to the far future. And TimeShip yourself and the Pirate Princess back here. And break me out of The Tower. And make a safe getaway for us. That's three NEW Gatsby functions for you to master. I know it's a lot, but you CAN do it.» Says Lizabeth,
 
 «Of course I can do it alone. ALONE! How can I learn three new Gatsby functions? How can I go to the far future without my sister and leave her to rot in jail? It's too much I cannot go alone. Aloooone.» Ruby sits down heavily on the tiny deck of her pink and yellow TimeShip.
 
-«Here take my gilded hat for good luck!» Says Captain Json.
+«Ka-Boom! Crash!» Acrid cannon smoke wafts up from the Bridge below..
+
+«My, oh my. I'll need to get a new front door made. I should go down before they make a mess looking for me. Here take Captain Json's gilded pirate hat for good luck!» Says Lizabeth.
 
 «Good luck!? Yeah I'll need THAT! .... Whatever.» Says Ruby head in hands.
 
@@ -31,19 +32,18 @@
 
 «Purrrr!» Says res-the-cat.
 
-«Not alone! Not alone! Kiwi wants a trip! A trip! A trip!» Croaks Kiwi and lands on Ruby's slouched shoulder.
+«Beep! Dudulappedu! Boop!» Squeeks req-the-bat and flaps down from up under deck and lands on Ruby's slouched shoulder.
 
-«Beep! Too-the-loo-dle! Boop!» Squeeks req-the-bat from up under deck.
+«Look at that! You have a full crew! It's a great crew. Take it!» Says Lizabeth.
 
-
-
-«Look at that! You have a full crew! It's a great crew. Take it!» Says Captain Json.
+«OK! Stop plaguing me already! I'll go. I know I'm your only hope Lizabeth. I will go to the far future and make my comeback with a Great Gatsby Pirate Princess. Together we will write The Three Greatest Gatsby Functions of London Bridge and save you from Mighty Mary's Mad Masterplan!
 
 
-«OK! Stop plaguing me already! I'll go. I know I'm Princess Lizabeth's only hope.
-I will go to the far future and make my comeback with a Great Gatsby Pirate Princess. Together we will write The Three Greatest Gatsby Functions of London Bridge and save Princess Lizabeth from Mighty Mary's Mad Masterplan! Req! Res! Kiwi! Look lively! May the Boop be with you Json!» Ruby waves the hat at Json and pushes the start button and ....
+«Can Ruby save me and Our Bridge? Yes. She. Can!» Lizabeth hugs Ruby and climbs down into the house through the rooftop window.
 
-«Rrr-RRR!» Says the pink and yellow  TimeShip.
+«Req! Res! Look lively! May the Boop be with you Lizabeth!» Ruby waves Captain Json's gilded pirate hat and pushes the start button and ....
+
+«Rrr-RRR!» Says the pink and yellow TimeShip.
 
 «Ka-Poof!»
 
@@ -53,12 +53,12 @@ P.S
 
 I am so pleased to see your still here!
 
-By "here", I mean the inner circle of our email list :)
+By "here", I mean the back story of ... inner circle of our email list :)
 
 We do things a bit differently here as you might have noticed, so let me prepare you for what's about to come...
 
-For six years I've been obsessed with practicing programming in a way tht
-makes building skills dramatically playfuller.
+For six years I've been obsessed with practicing programming in a way that
+makes building your best programming skill dramatically playfuller.
 
 Sure, I could dump all of my thoughts about this on a website and call it a day, but that would be like sending you to a musty old library and leaving you there by yourself.
 

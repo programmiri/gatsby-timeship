@@ -1,37 +1,42 @@
-Chapter 1
-Summer Is Coming ( // bold)
+## Chapter 1
+# Summer Is Coming
 
-In The Pink and Yellow TimeShip,
-on Princess Lizabeth's and Ruby's rooftop,
+In Ruby's TimeShip,
+on Princess Lizabeth's rooftop,
 on London Bridge,
-in year 1554.
+An early March morning in the year 1554.
 
-The sun is shining, the gulls are sining, it's a LOVELY morning.
-Lizabeth and Ruby are busy programming, as they have been busy programming every morning the whole spring. Programming to forget their horrid house arrest. Just a few lines of code are left before they can go on their first TimeShip test trip!
+Req-the-bat hangs dozing while Lizabeth and Ruby are busy programming to forget their horrid house arrest. Just a few lines of code are left before they can go on their first TimeShip test trip!
 
-«Let's get this Gatsby function going. Why don't you read out the first tiny task to me?» Says Ruby.
+«Sunny shiny and I feel okay
+That's cause we're coding today
+Sunny shiny and I feel okay.»  Sings Lizabeth.
+
+«I have my coffee
+and I have my keyboard
+and EVERY piece of our chocolate hoard
+I have my coffee
+and I have my keyboard TODAAAY!» Sings Ruby Reckless.
+
+«It reminds me of our first pro-gramming
+it was sunny summer all gulls a-sininging.» Sings Lizabeth.
+
+«Let's get this Gatsby function going. Why don't you read out the first tiny task to me?» Says Ruby Reckless.
 
 «Ok. So, start with a
 src / api folder and a
 time-travel.js file and
 export a Gatsby function that calls
-res.send("You time-travelled to
+res.send(`You time-travelled to
 the city of Oslo,
-in year 2026")» Says Lizabeth, while Ruby hammers away on her keyboard like a wild woodpecker.
+in year 2026`)» Says Lizabeth, while Ruby hammers away on her keyboard like a wild woodpecker.
 
-«MoooHa-Ha-HA-A! Done!» Says Ruby, stuffing computer and keyboard into her purple backpack.
+«MoooHa-Ha-HA-A! Done!» Says Ruby Reckless, shoulders her keyboard strap and puts her computer on as a backpack.
 
-«Wait....
-How do you know....
-And why did
-you write
-req-the-bat
-INTO THE
-GATSBY
-FUNCTION!?» Shouts Lizabeth after Ruby.
+«Wait.... How do you know you won't be reported for leaving our house arrest!?» Shouts Lizabeth after Ruby.
 
-«Know-schmow, people don't call me Ruby Reckless for no reason. Now move!» Shouts Ruby over her shoulder and climbs as an ape along a rope towards the next-door rooftop. req-the-bat opens one half hooded eye, she knows the order to "move" is meant for her, but she has a drowsy doze going...
+«Know-schmow, people don't call me Ruby Reckless for no reason!» Shouts Ruby over her shoulder and climbs as an ape along a rope towards the next-door rooftop. req-the-bat opens one half hooded eye, she has a dreamily, drowsy doze going...
 
-«ARR! Well I guess nobody is better suited to show us if this Gatsby Function weirdness actually works than our neighbour and friend Freddie Catsby, his glamorous self. Move your lazy wings req, it's the first time we're leaving the house in 3 months.» Says Lizabeth and ties the coffee thermos and cup to her belt and climbs hand over hand after Ruby.
+«ARR! Well I guess nobody is better suited to show us if this Gatsby Function weirdness actually works than our neighbour and friend Freddie Catsby, his glamorous self. Are you coming req, you lazy lass, it's the first time we're leaving the house in 3 months. Guess not.» Says Lizabeth and ties the coffee thermos and cup to her belt and climbs hand over hand after Ruby.
 
-( // illu:  )
+
