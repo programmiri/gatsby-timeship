@@ -1,4 +1,4 @@
-### TRANSFORM YOURSELF FROM A FRIENDLY FRONTEND ENGINEER TO A PROPER PRINCESS LIFE SAVER
+### TRANSFORM YOURSELF FROM A FRIENDLY FRONTEND ENGINEER TO A PROPER PRINCESS LIFE SAVING SKILL BUILDER
 
 ![Ruby Reckless, Frontend Engineer on Ruby's TimeShip](/sales-pages-2021-2026/sales-page-Rubys-TimeShip-1/Ruby.png)
 
@@ -20,7 +20,7 @@ Imagine this – Imagine if your frontend skill building had to get unstuck or y
 (// a button)
 SIGN UP NOW »
 
-![Ruby's TimeShip Cover page](/sales-pages-2021-2026/sales-page-Rubys-TimeShip-1/A_FRONTEND_SKILL_BUILDING_QUEST_000.png)
+![Ruby's TimeShip Cover page](/sales-pages-2021-2026/sales-page-Rubys-TimeShip-1/RUBYs_FRONTEND_SKILL_BUILDING_QUEST_000.png)
 
 ### Here’s How It Works:
 Ruby's TimeShip A FRONTEND SKILL BUILDING QUEST TO JAILBREAK A SISTER will take place in a short sequence of emails. It's a story Lillian (6 🏴‍☠️👸 ) and I just started writing, it will be over before you know it 😺. Every Sunday, we will send you a tiny part of Ruby's TimeShip to help you stay motivated in your frontend skill building struggles that week. But the welcome email will right after you sign up.
@@ -71,6 +71,9 @@ Dammit, if it wasn't for Ruby's frontend skill building MY iron hand would have 
 
 
 ![](/sales-pages-2021-2026/sales-page-Rubys-TimeShip-1/)
+
+![Captain Ola Vea and Lillian Raae-Vea and Queen Benedicte Raee](/sales-pages-2021-2026/sales-page-Rubys-TimeShip-1/Captain_Ola_Vea.png)
+
 
 Ruby Reckless, you finally convinced me to drop trying to practice several programming skills at once. I’ve now focused on Gatsby functions practice since the start of June 2021. Just wanted to say thank you.
 

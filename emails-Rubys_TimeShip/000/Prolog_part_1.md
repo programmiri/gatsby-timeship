@@ -32,10 +32,12 @@ far, far away….
 RUBY’S
 TiMESHiP
 
-4 PIRATY GATSBY FUNCTIONS TO JAILBREAK A SISTER
-By Lillian Raae-Vea (6 🏴‍☠️👸 ) and Ola Vea (43 🏴‍☠️😺 )
+A FRONTEND SKILL BUILDING QUEST TO JAILBREAK A SISTER
 
-( // illu: Bridge + cover page = src: Piraty_func-000.1.png)
+By Lillian Raae-Vea (6 🏴‍☠️👸 ) and Ola Vea (43 🏴‍☠️😺 )
+![Ruby's TimeShip Cover page](/emails-Rubys_TimeShip/000/A_FRONTEND_SKILL_BUILDING_QUEST_000.png)
+
+(A_FRONTEND_SKILL_BUILDING_QUEST_000.png)
 
 
 PROLOG
