@@ -155,5 +155,6 @@ Ola Vea
 Gatsby Piraty Captain
 
 P.S.
-![](email-list-2021-2026/39-week/_2.png)
-![](email-list-2021-2026/39-week/_3.png)
+This is how my notebook look like for Gatsby queries, video 18 of the magnificent Master Gatsby course by the wiley Wes Bos.
+![notebook Gatsby queries video 18 of the magnificent Master Gatsby course by the wiley Wes Bos](email-list-2021-2026/39-week/Gatsby_queries_week_39.png)
+
